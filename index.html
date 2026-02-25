@@ -1,0 +1,23 @@
+<input id="query" placeholder="Search application">
+<button onclick="search()">Search</button>
+
+<div id="result"></div>
+
+<script>
+async function search() {
+    const query = document.getElementById("query").value
+    const res = await fetch(`http://localhost:8000/search?query=${query}`)
+    const data = await res.json()
+
+    if (data.status === "not_found") {
+        document.getElementById("result").innerHTML = "❌ No match found"
+    } else {
+        document.getElementById("result").innerHTML = `
+            🔗 ${data.name}<br>
+            🌐 ${data.url}<br>
+            🔑 ${data.login}<br>
+            🔐 VPN Required: ${data.vpn}
+        `
+    }
+}
+</script>
