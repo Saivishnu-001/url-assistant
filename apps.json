@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ADP Portal",
+    "url": "https://www.vista.adp.com/in/V6/ess/dashboard",
+    "VPN Required": "NO",
+    "Login": "VSP User (example: sacher)",
+    "keywords": [
+      "payroll",
+      "salary",
+      "payslip",
+      "salary slip",
+      "ADP"
+    ]
+  },
+  {
+    "name": "OTL",
+    "url": "https://efwg.login.us6.oraclecloud.com/oam/server/obrareq.cgi?encquery%3DqqWjyEW3lDrAoik8ZRiYTn4fBMEQWo6kNdcxG2RyXvqnUTz29jULBVSrzfa2JFmyj1wiMrTMttb1dvqCz69QJZqHHtitpiPneA5KCnu35phR3AqTQpUm3rPGrDmKyPNh1cJl24gI4vQY4%2FUjQSWkN9RuK6%2Bfv%2FLqoXHWKby3WWprgB7SJQTVLjZnd5qxIv%2BWMAS8ZfAN5MYBB5IYWkGcfppp30UnGYnqppjeQXrmZjeT%2FjZsN5DsDuiEzViArJYxdTmuGDyHqOVF5vDa642Lnx0GLqeKT%2Bz19hzj43VQ0oJve7I6DoeVj3qOIADF9hiPt%2FfAD61SkCCOlXAPEqLhRyZS1fwi8LGXkwYfM%2FNMU5D0uNP7cBI753Z%2F7sILmFh%2FSKrlhzCkP64%2BOp93bjUKJU0mu5skdtLte3UZMnrcNv%2FALTKfo8Aa326%2BJCuhcasZh8U6PvqPk96%2BzeiilImq0%2FP8%2BsOu3k8vOjtfo1674UnzfP5M%2BGDmAAIWDgmOOofTJhwWwWPXNzuqmOx2PqYMcOshoYOifR1FjvGLOai%2BnIZUTNIfB%2BS9IvmPlLQufguKCXlrGOkFbXzNlnZm5ldYBfpG67yd%2FjVK2aU7Kt6L5zIBD32j1zM4o7jw1fYpuqHkAzH4Kgqywt%2F2RG%2BfUGfJJQlHPxKCwbYCkljq5YKDfP3N8VERNoCrEIxKUpJUzLs2iR68fHwrAZLH5gxt5imKK0ymGwvESsi7uVV%2BUIDFtOQ6vmthxa1bwcGxs%2BwWMlaQXkoRIPFBOzvL6UWWfwzBaGw%2FPlXjoaq3HAqpKmWRsMRPMX0v7OiEhekYaZg8m0DaFEhH5AgrpBrHMV9prwRhkYxv%2Bbckn8F47Ofw3N42YCk%3D%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2%26cksum%3Df7bd63cb244f3f97f2d8334d0a374f1b487166a2&ECID-Context=1.006IrqNjHcpF8DLayPrY6G00E8zU00020Z%3BkXjE",
+    "VPN Required": "NO",
+    "Login": "Company Mail",
+    "keywords": [
+      "otl",
+      "timesheet",
+      "fusion"
+    ]
+  }
+   {
+    "name": "Build calendar",
+    "url":"https://calendar.ondemand.sas.com/Build/",
+    "VPN Required": "YES",
+    "Login": "vsp",
+    "keywords": [
+      "Build calendar",
+      "Calendar Build",
+      "Assinged Build calendar"
+    ]
+  }
+]
+
